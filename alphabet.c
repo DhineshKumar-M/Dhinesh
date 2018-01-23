@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        printf("Character is NOT ALPHABET.");
+        printf("Character is NOT an ALPHABET.");
     }
     return 0;
 }
