@@ -8,5 +8,5 @@ for(int k=1;k<=j;k++)
 {
 n=n*i;
 }
-printf("\n %d",n);
+printf("\n ans=%d",n);
 }
