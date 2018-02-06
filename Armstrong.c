@@ -9,7 +9,7 @@ b=( (n/10)%10);
 c=(n/100)%10;
 x=(a*a*a)+(b*b*b)+(c*c*c);
 if(x==n)
-printf("\nArmstrong");
+printf("\nyes armstrong");
 else
-printf("\nNot armstrong");
+printf("\nNo  Not armstrong");
 }
