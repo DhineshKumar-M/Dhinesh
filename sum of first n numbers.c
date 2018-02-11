@@ -6,7 +6,7 @@ int sum=0,N,k;
 printf("Total numbers:");
   scanf("%d",&N);
     printf("Enter the numbers:");
-  for(i=0;i<=N;i++)
+  for(i=0;i<N;i++)
     scanf("%d",&a[i]);
  printf("No of Numbers to be added:");
   scanf("%d",&k);
@@ -14,5 +14,5 @@ printf("Total numbers:");
   {
     sum=sum+a[i];
   }
-  printf("%d",sum);
+  printf("sum:%d",sum);
 }
