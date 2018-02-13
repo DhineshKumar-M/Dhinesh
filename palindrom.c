@@ -12,9 +12,9 @@ int main()
        temp/=10;
     }
     if(rev==num)
-    printf("palindrom");
+    printf("palindrome");
     else 
-    printf("Not palindrom");
+    printf("Not palindrome");
     return 0;
 }
 
