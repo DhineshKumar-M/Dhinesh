@@ -1,5 +1,4 @@
 #include <stdio.h>
- 
 int main()
 {
   int Number, Reminder, Count=0;
