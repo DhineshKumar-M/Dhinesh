@@ -3,7 +3,7 @@
 void main()
 {
 	char str[50];
-	int i,count=1;
+	int i,count=0;
 	clrscr();
 	printf("enter the sentence:");
 	scanf("%[^\n]s",str);
