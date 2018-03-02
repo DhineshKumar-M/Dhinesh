@@ -17,10 +17,10 @@ void main()
 	}
 		if(b==n)
 		{
-			printf("\n The given string is numeric");
+			printf("\n Yes");
 		}
 		else
 		{
-		printf("\n The given string is not a numeric");
+		printf("\n No");
 	}
 }
